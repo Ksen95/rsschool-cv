@@ -1,4 +1,4 @@
-**[rsschool-cv](M)**
+**[rsschool-cv](https://ksen95.github.io/rsschool-cv/)**
 ====
 # Baikova Ksenia 
 ## Junior Frontend Developer
@@ -23,3 +23,20 @@
 * Git
 * IDE: VS Code, IntelliJ IDEA
 
+## Code examples:
+```
+function factor(x){
+  let factorial = 1;
+  for(let i = 1; i<=x; i++){
+     factorial = factorial*i;
+  }
+  return factorial;
+};
+```
+## Education:
+* Kazan Federal University - Economics
+* Russian University of Economics named after G.V. Plekhanov - Fullstack Developer
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## My projects:
+* online store - **[link to github](https://github.com/Ksen95/Store.git)**
